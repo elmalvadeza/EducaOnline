@@ -1,6 +1,6 @@
 body {
     background-image: url('../img/Captura\ de\ tela\ 2024-09-22\ 105821.png');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 
