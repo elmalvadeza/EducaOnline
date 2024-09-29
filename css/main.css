@@ -1,13 +1,16 @@
 body {
-    background-image: url('../img/Captura\ de\ tela\ 2024-09-22\ 105821.png');
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: black;
 }
 
 
 .home {
     min-height: 84vh;
 
+    background-image: url('../img/Captura\ de\ tela\ 2024-09-22\ 105821.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
 
 .cursos-section {
